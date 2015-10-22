@@ -99,4 +99,5 @@ The fact was in the fire for the politician when his private secretary
 started telling tales out of school about his secret sources of income.
 
 - fact is in the fire: said when something has been said or done that will cause a lot of trouble
+
 ----
