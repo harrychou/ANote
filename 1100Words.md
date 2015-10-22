@@ -29,7 +29,7 @@ nights to get it working.
 ##### Doing the Right Thing
 The obstacles which frustrate the physically handicapped person who is seeking
 an employment may turn him into cynic. Too often a prospective employer, with
-a rather **unctuous** manner, actually tends to degrade the handicapped by proffering
+a rather **unctuous** manner, actually tends to degrade the handicapped by **proffering**
 employment that is really beneath him and his abilities. The employer appears to
 be acting in a benevolent manner, but this attitude shows no compassion, for
 he expects the man seeking a job to remain subservient. This iniquity cannot but
