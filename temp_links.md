@@ -6,4 +6,12 @@
 - http://classics.mit.edu/Plato/republic.1.introduction.html
 - http://www.thinkingtaiwan.com/content/4763
 
-This is OK 
+Study Goals: Deeper, Moderner
+- Deeper
+    - C/C++
+    - Machine Level
+    - Automation
+- Moderner
+    - Node.js
+    - Grunt.js
+    - Yeoman
