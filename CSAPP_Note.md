@@ -4,7 +4,7 @@
 ### 1 A Tour of Computer Systems 1
 Introduces the major ideas and themes in computer systems by tracing the life cycle of a simple "hello, world" program.
 
-[Imgur](http://i.imgur.com/qi38H7c.png)
+![Fig 1.3](http://i.imgur.com/qi38H7c.png)
 
  - 1.1 Information Is Bits + Context 3
  - 1.2 Programs Are Translated by Other Programs into Different Forms 4
